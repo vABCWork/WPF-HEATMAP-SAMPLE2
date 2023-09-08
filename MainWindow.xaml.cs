@@ -225,7 +225,7 @@ namespace ColorBarRGB
                     str_rgb_line = "";
 
                     int cnt = 0;
-                    // { 48,18,59},
+                
                     foreach (RGBData rgbData in rgb_list)         // rgb_listの内容を保存
                     {
                         
